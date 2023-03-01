@@ -1,0 +1,3 @@
+sudo su
+git config --global username "mehboob"
+
